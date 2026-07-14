@@ -1,0 +1,5 @@
+results*/
+*.npy
+*.pkl
+*.npz
+*.pt
